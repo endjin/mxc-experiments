@@ -1,0 +1,1 @@
+Hello from the host filesystem. The sandboxed process is allowed to READ this file.

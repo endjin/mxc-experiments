@@ -1,0 +1,9 @@
+bin/
+obj/
+.vs/
+*.user
+denials/
+workspace/*
+!workspace/README.txt
+!workspace/input.txt
+secrets/
